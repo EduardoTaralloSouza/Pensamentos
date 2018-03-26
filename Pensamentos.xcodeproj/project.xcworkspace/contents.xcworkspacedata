@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:project.pbxproj">
+   </FileRef>
+   <Group
+      location = "group:xcuserdata"
+      name = "xcuserdata">
+      <Group
+         location = "group:eduardotarallo.xcuserdatad"
+         name = "eduardotarallo.xcuserdatad">
+         <Group
+            location = "group:xcdebugger"
+            name = "xcdebugger">
+            <FileRef
+               location = "group:Breakpoints_v2.xcbkptlist">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:xcschemes"
+            name = "xcschemes">
+            <FileRef
+               location = "group:xcschememanagement.plist">
+            </FileRef>
+         </Group>
+      </Group>
+   </Group>
+   <FileRef
+      location = "group:../Pensamentos/AppDelegate.swift">
+   </FileRef>
+   <Group
+      location = "group:../Pensamentos/Assets.xcassets"
+      name = "Assets.xcassets">
+      <Group
+         location = "group:bob_marley.imageset"
+         name = "bob_marley.imageset">
+         <FileRef
+            location = "group:bob_marley.png">
+         </FileRef>
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:henry_ford.imageset"
+         name = "henry_ford.imageset">
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+         <FileRef
+            location = "group:henry_ford.png">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:jesus_de_nazare.imageset"
+         name = "jesus_de_nazare.imageset">
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+         <FileRef
+            location = "group:jesus_de_nazare.png">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:david_allen.imageset"
+         name = "david_allen.imageset">
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+         <FileRef
+            location = "group:david_allen.png">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:voltaire.imageset"
+         name = "voltaire.imageset">
+         <FileRef
+            location = "group:voltaire.png">
+         </FileRef>
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:quotes.imageset"
+         name = "quotes.imageset">
+         <FileRef
+            location = "group:quotes.png">
+         </FileRef>
+         <FileRef
+            location = "group:quotes@2x.png">
+         </FileRef>
+         <FileRef
+            location = "group:quotes@3x.png">
+         </FileRef>
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:mahatma_gandhi.imageset"
+         name = "mahatma_gandhi.imageset">
+         <FileRef
+            location = "group:mahatma_gandhi.png">
+         </FileRef>
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:abraham_maslow.imageset"
+         name = "abraham_maslow.imageset">
+         <FileRef
+            location = "group:abraham_maslow.png">
+         </FileRef>
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:AppIcon.appiconset"
+         name = "AppIcon.appiconset">
+         <FileRef
+            location = "group:icon167.png">
+         </FileRef>
+         <FileRef
+            location = "group:icon29.png">
+         </FileRef>
+         <FileRef
+            location = "group:icon1024.png">
+         </FileRef>
+         <FileRef
+            location = "group:icon60.png">
+         </FileRef>
+         <FileRef
+            location = "group:icon76.png">
+         </FileRef>
+         <FileRef
+            location = "group:icon58.png">
+         </FileRef>
+         <FileRef
+            location = "group:icon40.png">
+         </FileRef>
+         <FileRef
+            location = "group:icon80.png">
+         </FileRef>
+         <FileRef
+            location = "group:icon120-1.png">
+         </FileRef>
+         <FileRef
+            location = "group:icon80-1.png">
+         </FileRef>
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+         <FileRef
+            location = "group:icon40-1.png">
+         </FileRef>
+         <FileRef
+            location = "group:icon87.png">
+         </FileRef>
+         <FileRef
+            location = "group:icon120.png">
+         </FileRef>
+         <FileRef
+            location = "group:icon40-2.png">
+         </FileRef>
+         <FileRef
+            location = "group:icon152.png">
+         </FileRef>
+         <FileRef
+            location = "group:icon58-1.png">
+         </FileRef>
+         <FileRef
+            location = "group:icon20-1.png">
+         </FileRef>
+         <FileRef
+            location = "group:icon180.png">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:arthur_conan_doyle.imageset"
+         name = "arthur_conan_doyle.imageset">
+         <FileRef
+            location = "group:arthur_conan_doyle.png">
+         </FileRef>
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:john_lennon.imageset"
+         name = "john_lennon.imageset">
+         <FileRef
+            location = "group:john_lennon.png">
+         </FileRef>
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:thomas_carlyle.imageset"
+         name = "thomas_carlyle.imageset">
+         <FileRef
+            location = "group:thomas_carlyle.png">
+         </FileRef>
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:LaunchScreen.imageset"
+         name = "LaunchScreen.imageset">
+         <FileRef
+            location = "group:LaunchScreen.jpg">
+         </FileRef>
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+         <FileRef
+            location = "group:LaunchScreen@3x.jpg">
+         </FileRef>
+         <FileRef
+            location = "group:LaunchScreen@2x.jpg">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:steve_jobs.imageset"
+         name = "steve_jobs.imageset">
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+         <FileRef
+            location = "group:steve_jobs.png">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:zig_ziglar.imageset"
+         name = "zig_ziglar.imageset">
+         <FileRef
+            location = "group:zig_ziglar.png">
+         </FileRef>
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:amelia_earhart.imageset"
+         name = "amelia_earhart.imageset">
+         <FileRef
+            location = "group:amelia_earhart.png">
+         </FileRef>
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:Contents.json">
+      </FileRef>
+      <Group
+         location = "group:albert_einstein.imageset"
+         name = "albert_einstein.imageset">
+         <FileRef
+            location = "group:albert_einstein.png">
+         </FileRef>
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:blaise_pascal.imageset"
+         name = "blaise_pascal.imageset">
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+         <FileRef
+            location = "group:blaise_pascal.png">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:wayne_gretzky.imageset"
+         name = "wayne_gretzky.imageset">
+         <FileRef
+            location = "group:wayne_gretzky.png">
+         </FileRef>
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:settings.imageset"
+         name = "settings.imageset">
+         <FileRef
+            location = "group:settings.png">
+         </FileRef>
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+         <FileRef
+            location = "group:settings@2x.png">
+         </FileRef>
+         <FileRef
+            location = "group:settings@3x.png">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:richard_restak.imageset"
+         name = "richard_restak.imageset">
+         <FileRef
+            location = "group:richard_restak.png">
+         </FileRef>
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:charles_chaplin.imageset"
+         name = "charles_chaplin.imageset">
+         <FileRef
+            location = "group:charles_chaplin.png">
+         </FileRef>
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:aristoteles.imageset"
+         name = "aristoteles.imageset">
+         <FileRef
+            location = "group:aristoteles.png">
+         </FileRef>
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:bruce_lee.imageset"
+         name = "bruce_lee.imageset">
+         <FileRef
+            location = "group:bruce_lee.png">
+         </FileRef>
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:mark_twain.imageset"
+         name = "mark_twain.imageset">
+         <FileRef
+            location = "group:mark_twain.png">
+         </FileRef>
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:john_donne.imageset"
+         name = "john_donne.imageset">
+         <FileRef
+            location = "group:john_donne.png">
+         </FileRef>
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:buddha.imageset"
+         name = "buddha.imageset">
+         <FileRef
+            location = "group:buddha.png">
+         </FileRef>
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
+      location = "group:../Pensamentos/Base.lproj"
+      name = "Base.lproj">
+   </Group>
+   <Group
+      location = "group:../Pensamentos/Controllers"
+      name = "Controllers">
+      <FileRef
+         location = "group:QuotesViewController.swift">
+      </FileRef>
+      <FileRef
+         location = "group:SettingsViewController.swift">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:../Pensamentos/Files"
+      name = "Files">
+      <FileRef
+         location = "group:Savoye LET.ttc">
+      </FileRef>
+      <FileRef
+         location = "group:quotes.json">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "group:../Pensamentos/Info.plist">
+   </FileRef>
+   <Group
+      location = "group:../Pensamentos/Models"
+      name = "Models">
+      <FileRef
+         location = "group:Quote.swift">
+      </FileRef>
+      <FileRef
+         location = "group:QuotesManager.swift">
+      </FileRef>
+      <FileRef
+         location = "group:Configuration.swift">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "group:../Pensamentos/Settings.bundle">
+   </FileRef>
+   <Group
+      location = "group:../Pensamentos/Views"
+      name = "Views">
+      <Group
+         location = "group:Base.lproj"
+         name = "Base.lproj">
+         <FileRef
+            location = "group:LaunchScreen.storyboard">
+         </FileRef>
+         <FileRef
+            location = "group:Main.storyboard">
+         </FileRef>
+      </Group>
+   </Group>
+   <FileRef
+      location = "self:">
+   </FileRef>
+</Workspace>
